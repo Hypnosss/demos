@@ -12,6 +12,7 @@ $("#clickMe").on("click", function(){
             show = 0;
             console.log("111");
         });
+        console.log("222");
     }
 })
 
