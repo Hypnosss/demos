@@ -10,6 +10,7 @@ $("#clickMe").on("click", function(){
         $(document).one("click",function(){
             $("#floatingLayer").hide();
             show = 0;
+            console.log("111");
         });
     }
 })
