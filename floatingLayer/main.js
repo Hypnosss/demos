@@ -16,7 +16,7 @@ $("#clickMe").on("click", function(){
     }
 })
 
-$(".wrapper").on("click",function(e){
+$("#floatingLayer,#clickMe").on("click",function(e){
     e.stopPropagation();
 })
 

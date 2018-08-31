@@ -4,3 +4,7 @@
     height: 100px;
     background-color: #888;
 }
+
+.wrapper{
+    border:1px solid red;
+}
